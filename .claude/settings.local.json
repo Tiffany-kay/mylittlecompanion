@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm src/components/TodayView.tsx src/components/CycleView.tsx src/components/SettingsView.tsx src/lib/storage.ts src/lib/cycle.ts src/lib/nudge.ts)",
+      "Bash(rmdir src/lib)"
+    ]
+  }
+}
