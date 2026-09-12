@@ -1,13 +1,82 @@
-node_modules
-dist
-dev-dist
-.DS_Store
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.python-version
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Logs
+*.log
+
+# Environment variables
 .env
 .env.local
-*.log
-*.tsbuildinfo
+.env.*
 
-# server-side runtime data
-server/node_modules
-server/data
-server/.env
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.gz
+*.rar
+*.7z
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+*.out
+*.class
+
+# Testing
+coverage/
+htmlcov/
+.nyc_output/
+
+# Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Gradle
+.gradle/
+build/
+
+# Temporary files
+*.tmp
+*~
+```

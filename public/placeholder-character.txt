@@ -1,0 +1,12 @@
+PLACEHOLDER FOR angel_char-nobg.png
+
+To add your character:
+1. Copy your hand-drawn angel/demon character image to this folder
+2. Name it exactly: angel_char-nobg.png
+3. Recommended size: 400x400px or larger (will scale down)
+4. PNG with transparent background works best
+5. The image will appear in the hero section with a floating animation and pink glow
+
+Current status: Waiting for your character upload!
+
+The portfolio is live at http://localhost:5174 - you'll see the layout without the character until you add it.
